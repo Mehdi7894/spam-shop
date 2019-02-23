@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("هنا اي دي الروم")
+let channel =     client.channels.get("541275433811968022")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`هل تعلم انا موز لديه مخ ومخ داك ياكله كل بشري فلذالك سبب يكون انسان ذكي حينما يكل موز`);
 }, 30)
 })
 
